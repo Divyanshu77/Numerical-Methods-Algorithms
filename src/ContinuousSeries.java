@@ -1,3 +1,9 @@
+/******************************
+Continuous Series Implementaion 
+by - Divyanshu Sharma
+*******************************/
+
+
 import java.io.*;
 public class ContinuousSeries{
     private double lb,interval,f[],mean,median,mode;
