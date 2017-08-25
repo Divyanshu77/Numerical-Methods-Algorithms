@@ -1,3 +1,8 @@
+/******************************
+Newton Rapson Method Implementaion 
+by - Divyanshu Sharma
+*******************************/
+
 import java.io.*;
 
 public class NewtonRaphson {
